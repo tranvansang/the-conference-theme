@@ -22,7 +22,7 @@ https://codex.wordpress.org/Right-to-Left_Language_Support
     margin-left: 0;
 }
 
-.countdown-wrap::before,
+.countdown-wrap::before, 
 .countdown-wrap::after {
     right: auto;
     left: -50px;
@@ -63,7 +63,7 @@ section[class*="-section"] .widget_rrtc_icon_text_widget:nth-child(2n) .text-hol
     margin-right: 130px;
 }
 
-.toggle-block::before,
+.toggle-block::before, 
 .toggle-block::after {
     border-right: none;
     border-left: 10px solid #ddd;
@@ -74,7 +74,7 @@ section[class*="-section"] .widget_rrtc_icon_text_widget:nth-child(2n) .text-hol
 .toggle-block::after {
     left: auto;
     right: -10px;
-    border-left-color: #245aa3;
+    border-left-color: #fff;
 }
 
 .toggle-block figure.toggle-img {
@@ -97,13 +97,13 @@ section[class*="-section"] .widget_rrtc_icon_text_widget:nth-child(2n) .text-hol
     text-align: right;
 }
 
-.widget_rbp_pt_widget:first-child .pricing-header,
+.widget_rbp_pt_widget:first-child .pricing-header, 
 .widget_text + .widget_rbp_pt_widget .pricing-header {
     border-top-right-radius: 5px;
     border-top-left-radius: 0;
 }
 
-.pricingtable-block .pricing-header,
+.pricingtable-block .pricing-header, 
 .pricingtable-block .pricingtable-desc {
     text-align: right;
 }
@@ -118,7 +118,7 @@ section[class*="-section"] .widget_rrtc_icon_text_widget:nth-child(2n) .text-hol
     right: 0;
 }
 
-.widget_rbp_pt_widget:first-child .pricingtable-btn,
+.widget_rbp_pt_widget:first-child .pricingtable-btn, 
 .widget_text + .widget_rbp_pt_widget .pricingtable-btn {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 0;
@@ -188,13 +188,13 @@ section[class*="-section"] .widget_rrtc_icon_text_widget:nth-child(2n) .text-hol
     float: right;
 }
 
-.event-sponsor-section .widget_raratheme_client_logo_widget .image-holder,
+.event-sponsor-section .widget_raratheme_client_logo_widget .image-holder, 
 .page-template-sponsor .site-main .widget_raratheme_client_logo_widget .image-holder {
     margin-right: 0;
     margin-left: 40px;
 }
 
-.event-sponsor-section .widget_raratheme_client_logo_widget .image-holder:last-child,
+.event-sponsor-section .widget_raratheme_client_logo_widget .image-holder:last-child, 
 .page-template-sponsor .site-main .widget_raratheme_client_logo_widget .image-holder:last-child {
     margin-left: 0;
 }
@@ -250,7 +250,7 @@ span.category a:last-child {
     margin-left: 30px;
 }
 
-.entry-meta span span,
+.entry-meta span span, 
 .entry-meta > span:last-child {
     margin-left: 0;
 }
@@ -290,7 +290,7 @@ span.category a:last-child {
     padding-left: 40px;
 }
 
-.blossomthemes-email-newsletter-wrapper form input[name="subscribe-fname"],
+.blossomthemes-email-newsletter-wrapper form input[name="subscribe-fname"], 
 .blossomthemes-email-newsletter-wrapper form input[name="subscribe-email"] {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -336,7 +336,7 @@ span.category a:last-child {
     right: 0;
 }
 
-.widget_raratheme_popular_post ul li .post-thumbnail,
+.widget_raratheme_popular_post ul li .post-thumbnail, 
 .widget_raratheme_recent_post ul li .post-thumbnail {
     float: right;
     margin-right: 0;
@@ -354,7 +354,7 @@ span.category a:last-child {
     text-align: right;
 }
 
-section.experience-section .widget_rrtc_icon_text_widget .text-holder,
+section.experience-section .widget_rrtc_icon_text_widget .text-holder, 
 section.experience-section .widget_rrtc_icon_text_widget:nth-child(2n) .text-holder {
     padding-right: 0;
     text-align: right;
@@ -373,7 +373,7 @@ a.btn-transparent svg, .btn-readmore svg {
     transform: rotate(180deg);
 }
 
-.entry-footer a.btn-transparent + .edit-link,
+.entry-footer a.btn-transparent + .edit-link, 
 .entry-footer .cat-tags + .edit-link {
     margin-left: 0;
     margin-right: 20px;
@@ -409,8 +409,8 @@ a.btn-transparent svg, .btn-readmore svg {
     padding-right: 115px;
 }
 
-.comment-navigation .nav-previous,
-.posts-navigation .nav-previous,
+.comment-navigation .nav-previous, 
+.posts-navigation .nav-previous, 
 .post-navigation .nav-previous {
     float: right;
 }
@@ -428,8 +428,8 @@ a.btn-transparent svg, .btn-readmore svg {
     transform: rotate(180deg);
 }
 
-.comment-navigation .nav-next,
-.posts-navigation .nav-next,
+.comment-navigation .nav-next, 
+.posts-navigation .nav-next, 
 .post-navigation .nav-next {
     float: left;
     text-align: left;
@@ -586,12 +586,12 @@ a.btn-transparent svg, .btn-readmore svg {
 	    padding-left: 30px;
 	}
 
-	.widget_rbp_pt_widget:first-child .pricing-header,
+	.widget_rbp_pt_widget:first-child .pricing-header, 
 	.widget_text + .widget_rbp_pt_widget .pricing-header {
 	    border-top-left-radius: 5px;
 	}
 
-	.widget_rbp_pt_widget:first-child .pricingtable-btn,
+	.widget_rbp_pt_widget:first-child .pricingtable-btn, 
 	.widget_text + .widget_rbp_pt_widget .pricingtable-btn {
 	    border-bottom-left-radius: 5px;
 	}
@@ -612,7 +612,7 @@ a.btn-transparent svg, .btn-readmore svg {
 	    margin-left: 0;
 	}
 
-	.event-sponsor-section .widget_raratheme_client_logo_widget .image-holder,
+	.event-sponsor-section .widget_raratheme_client_logo_widget .image-holder, 
 	.page-template-sponsor .site-main .widget_raratheme_client_logo_widget .image-holder {
 	    margin-left: 0;
 	}
@@ -621,7 +621,7 @@ a.btn-transparent svg, .btn-readmore svg {
 		margin-left: 0;
 	}
 
-	.blossomthemes-email-newsletter-wrapper form input[name="subscribe-fname"],
+	.blossomthemes-email-newsletter-wrapper form input[name="subscribe-fname"], 
 	.blossomthemes-email-newsletter-wrapper form input[name="subscribe-email"] {
 	    border-left: 2px solid rgba(255,255,255,0.5);
 	    border-top-left-radius: 5px;

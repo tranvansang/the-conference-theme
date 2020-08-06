@@ -60,7 +60,7 @@
     background: #e54b4b;
     font-size: 0.6666em;
     text-transform: uppercase;
-    color: #245aa3;
+    color: #fff;
     letter-spacing: 1px;
     left: 15px;
     top: 15px;
@@ -114,7 +114,7 @@
  .woocommerce ul.products li.product .product_type_external,
  .woocommerce ul.products li.product .product_type_grouped{
     background: #111;
-    color: #245aa3;
+    color: #fff;
     text-transform: uppercase;
     padding: 15px 10px;
     border-radius: 0;
@@ -135,7 +135,7 @@
 
  .woocommerce ul.products li.product .added_to_cart{
     background: #111;
-    color: #245aa3;
+    color: #fff;
     text-transform: uppercase;
     padding: 8px 10px;
     width: calc(100% - 20px);
@@ -151,7 +151,7 @@
  .woocommerce ul.products li.product .added_to_cart:hover,
  .woocommerce ul.products li.product .added_to_cart:focus{
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
     box-shadow: none;
  }
 
@@ -164,7 +164,7 @@
  .woocommerce ul.products li.product .product_type_grouped:hover,
  .woocommerce ul.products li.product .product_type_grouped:focus{
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
     box-shadow: none;
  }
 
@@ -272,7 +272,7 @@
     width: 50px;
     height: 50px;
     line-height: 46px;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce nav.woocommerce-pagination ul li .next,
@@ -448,7 +448,7 @@
     font-weight: 600;
     letter-spacing: 1px;
     background: #111;
-    color: #245aa3;
+    color: #fff;
     border-radius: 0;
     text-transform: uppercase;
     padding: 15px 30px;
@@ -461,7 +461,7 @@
  .woocommerce div.product .entry-summary .variations_form .single_variation_wrap .button:focus{
     opacity: 1;
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce div.product .entry-summary .product_meta{
@@ -501,7 +501,7 @@
  .woocommerce button.button.alt,
  .woocommerce input.button.alt{
     background: #639bbc;
-    color: #245aa3;
+    color: #fff;
     font-size: 0.8888em;
     font-weight: 700;
     line-height: 20px;
@@ -519,7 +519,7 @@
  .woocommerce button.button.alt:focus,
  .woocommerce input.button.alt:focus{
     background: #639bbc;
-    color: #245aa3;
+    color: #fff;
     opacity: 0.8;
  }
 
@@ -535,7 +535,7 @@
     border-radius: 0;
     text-transform: uppercase;
     padding: 15px 30px;
-    color: #245aa3;
+    color: #fff;
     -webkit-transition: linear 0.2s;
     -moz-transition: linear 0.2s;
     transition: linear 0.2s;
@@ -547,7 +547,7 @@
  .woocommerce div.product .cart .single_add_to_cart_button.alt:focus{
     background: #f8cc0f;
     opacity: 1;
-    color: #245aa3;
+    color: #fff;
  }
 
 /*=======================
@@ -605,7 +605,7 @@
 
  .woocommerce div.product .woocommerce-tabs ul.tabs li.active{
     background: #fff;
-    border-bottom-color: #245aa3;
+    border-bottom-color: #fff;
  }
 
  .woocommerce #reviews #comments ol.commentlist{
@@ -709,7 +709,7 @@
     border-radius: 0;
     text-transform: uppercase;
     padding: 15px 30px;
-    color: #245aa3;
+    color: #fff;
     -webkit-transition: linear 0.2s;
     -moz-transition: linear 0.2s;
     transition: linear 0.2s;
@@ -776,7 +776,7 @@
     -webkit-transition: linear 0.2s;
     -moz-transition: linear 0.2s;
     transition: linear 0.2s;
-    color: #245aa3;
+    color: #fff;
     position: relative;
  }
 
@@ -797,7 +797,7 @@
  .woocommerce .woocommerce-message .button:hover,
  .woocommerce .woocommerce-message .button:focus{
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce .woocommerce-message .button:hover:after,
@@ -894,7 +894,7 @@
     display: block;
     border: 0;
     background: #111;
-    color: #245aa3;
+    color: #fff;
     width: 100%;
     border-radius: 0;
     text-transform: uppercase;
@@ -907,7 +907,7 @@
  .woocommerce-cart #primary .page .entry-content table.shop_table td.actions .coupon input[type="submit"]:hover,
  .woocommerce-cart #primary .page .entry-content table.shop_table td.actions .coupon input[type="submit"]:focus{
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce-cart #primary .page .entry-content table.shop_table td.actions .button{
@@ -929,7 +929,7 @@
  .woocommerce-cart #primary .page .entry-content table.shop_table td.actions .button:hover,
  .woocommerce-cart #primary .page .entry-content table.shop_table td.actions .button:focus{
     background: #111;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce div.product form.cart .variations td.label{width: 50px;}
@@ -961,7 +961,7 @@
     letter-spacing: 1px;
     display: block;
     background: #111;
-    color: #245aa3;
+    color: #fff;
     width: 100%;
     border-radius: 0;
     text-transform: uppercase;
@@ -976,7 +976,7 @@
  .woocommerce-cart #primary .page .entry-content .cart_totals .checkout-button:focus{
     opacity: 1;
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce #respond input#submit.alt.disabled,
@@ -1183,7 +1183,7 @@
     border-radius: 0;
     text-transform: uppercase;
     padding: 15px 30px;
-    color: #245aa3;
+    color: #fff;
     -webkit-transition: linear 0.2s;
     -moz-transition: linear 0.2s;
     transition: linear 0.2s;
@@ -1208,7 +1208,7 @@
  .woocommerce input.button:hover,
  .woocommerce input.button:focus{
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce-checkout #primary .page .entry-content .woocommerce .woocommerce-billing-fields,
@@ -1369,7 +1369,7 @@
  .woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a,
  .woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover {
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
  .woocommerce-account .woocommerce-MyAccount-content {
@@ -1498,7 +1498,7 @@
  .woocommerce #secondary .widget_shopping_cart .buttons .button{
     display: block;
     background: #111;
-    color: #245aa3;
+    color: #fff;
     text-align: center;
     font-size: 0.7778em;
     font-weight: 600;
@@ -1515,7 +1515,7 @@
  .woocommerce #secondary .widget_shopping_cart .buttons .button:hover,
  .woocommerce #secondary .widget_shopping_cart .buttons .button:focus{
     background: #f8cc0f;
-    color: #245aa3;
+    color: #fff;
  }
 
 /*===================================
@@ -1631,7 +1631,7 @@
     font-size: 0.6666em;
     font-weight: 700;
     letter-spacing: 1px;
-    color: #245aa3;
+    color: #fff;
     background: #f8cc0f;
     border-radius: 50px;
     border: 2px solid #f8cc0f;

@@ -96,7 +96,7 @@
 	border: none;
 }
 
-.getting-started .panel a.button,
+.getting-started .panel a.button, 
 .getting-started input.button-primary {
 	background: #0095c8;
 	border: 1px solid #0095c8;
@@ -105,7 +105,7 @@
 	height: auto;
 	font-size: 16px;
 	font-weight: 600;
-	color: #245aa3;
+	color: #fff;
 	line-height: normal;
 	padding: 10px 20px;
 	border-radius: 4px;
@@ -115,10 +115,10 @@
 	margin-top: 20px;
 }
 
-.getting-started .panel a.button:focus,
-.getting-started .panel a.button:active,
-.getting-started .panel a.button:hover,
-.getting-started input.button-primary:hover,
+.getting-started .panel a.button:focus, 
+.getting-started .panel a.button:active, 
+.getting-started .panel a.button:hover, 
+.getting-started input.button-primary:hover, 
 .getting-started input.button-primary:focus {
 	color: #0095c8;
 	background: none;
@@ -359,7 +359,7 @@
 .getting-started .inline-list li.current a {
 	background: #fff;
 	outline: none;
-	border-color: #245aa3;
+	border-color: #fff;
 	box-shadow: none;
 	color: #0095c8;
 	font-weight: 600;
@@ -377,7 +377,7 @@
 	fill: #354052;
 }
 
-.getting-started .inline-list li.current a:not(#themeclub) svg .a,
+.getting-started .inline-list li.current a:not(#themeclub) svg .a, 
 .getting-started .inline-list li a:not(#themeclub):hover svg .a {
 	fill: #0095c8;
 }
@@ -466,7 +466,7 @@
 h4 .button {
 	float: right;
 	background: #5AC779;
-	color: #245aa3;
+	color: #fff;
 	border-radius: 3px;
 	font-size: 14px;
 	padding: 3px 6px;
@@ -513,7 +513,7 @@ h4 .button {
 	font-weight: 600;
 }
 
-.theme-intro-right .button-primary:hover,
+.theme-intro-right .button-primary:hover, 
 .theme-intro-right .button-primary:focus {
 	border-color: #0095c8;
 	background: none;
@@ -537,8 +537,8 @@ h4 .button {
 	margin-top: 5%;
 }
 
-.blossom-theme:nth-child(1),
-.blossom-theme:nth-child(2),
+.blossom-theme:nth-child(1), 
+.blossom-theme:nth-child(2), 
 .blossom-theme:nth-child(3) {
 	margin-top: 0;
 }
@@ -564,7 +564,7 @@ h4 .button {
     cursor: pointer;
 }
 
-.toggle-title:hover,
+.toggle-title:hover, 
 .active .toggle-title {
 	color: #0095c8;
 }
@@ -766,7 +766,7 @@ h4 .button {
 
 .recom-plugin-wrap:hover .plugin-title-install .title {
 	background: #354052;
-	color: #245aa3;
+	color: #fff;
 }
 
 .button-wrap{
@@ -792,7 +792,7 @@ h4 .button {
 .getting-started .panel .button-wrap a.button:hover {
 	background: #0095c8;
 	border-color: #0095c8;
-	color: #245aa3;
+	color: #fff;
 }
 
 .getting-started .panel .button-wrap a.button.updating-message {
@@ -805,20 +805,20 @@ h4 .button {
     color: #7f8fa4;
 }
 
-.button.updating-message::before,
-.button.updated-message::before,
-.button.installed::before,
+.button.updating-message::before, 
+.button.updated-message::before, 
+.button.installed::before, 
 .button.installing::before {
     margin: 0 5px 0 0;
 }
 
-.update-message p::before,
-.updating-message p::before,
-.updated-message p::before,
-.import-php .updating-message::before,
-.button.updating-message::before,
-.button.updated-message::before,
-.button.installed::before,
+.update-message p::before, 
+.updating-message p::before, 
+.updated-message p::before, 
+.import-php .updating-message::before, 
+.button.updating-message::before, 
+.button.updated-message::before, 
+.button.installed::before, 
 .button.installing::before {
 	font-size: 18px;
 }
