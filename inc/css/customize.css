@@ -1,7 +1,7 @@
 /** For hiding video section notice */
 #sub-accordion-section-header_image .customize-section-description-container .customize-section-title .customize-control-notifications-container{
     visibility: hidden;
-    height: 0;    
+    height: 0;
 }
 
 .control-section-pro-section .accordion-section-title .button {
@@ -9,7 +9,7 @@
 	font-weight: 700;
 	margin-left: 8px;
   background: #f89300;
-  color: #fff;
+  color: #245aa3;
   border-color: #f89300;
   padding: 0 20px 1px;
 }
