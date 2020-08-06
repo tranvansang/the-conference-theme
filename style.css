@@ -447,8 +447,8 @@ input[type="button"],
 input[type="reset"],
 input[type="submit"] {
 	border-radius: 5px;
-	background: #f8cc0f;
-	border: 2px solid #f8cc0f;
+	background: #f6b808;
+	border: 2px solid #f6b808;
 	color: #fff;
 	font-size: 0.7778em;
 	text-transform: uppercase;
@@ -466,7 +466,7 @@ input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
 	background: none;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 button:active, button:focus,
@@ -578,7 +578,7 @@ a:hover, a:focus, a:active {
 		outline: 0;
 	}
 	a:hover {
-		color: #f8cc0f;
+		color: #f6b808;
 	}
 
 /*--------------------------------------------------------------
@@ -1026,7 +1026,7 @@ iframe {
 }
 .title-wrap::after {
 	content: "";
-	background: #f8cc0f;
+	background: #f6b808;
 	height: 3px;
 	width: 70px;
 	position: absolute;
@@ -1147,7 +1147,7 @@ iframe {
 		margin-top: 15px;
 	}
 	q {
-		border-left: 3px solid #f8cc0f;
+		border-left: 3px solid #f6b808;
 		display: inline-block;
 		padding-left: 25px;
 		font-style: italic;
@@ -1195,9 +1195,9 @@ iframe {
 		padding: 2px 7px;
 	}
 	.cat-tags a:hover {
-		background: #f8cc0f;
+		background: #f6b808;
 		color: #fff;
-		border-color: #f8cc0f;
+		border-color: #f6b808;
 	}
 	.left {
 		text-align: left;
@@ -1249,16 +1249,16 @@ iframe {
 		text-transform: uppercase;
 		font-weight: 700;
 		letter-spacing: 1px;
-		background: #f8cc0f;
+		background: #f6b808;
 		color: #fff;
 		padding: 0 10px;
 		border-radius: 3px;
-		border: 1px solid #f8cc0f;
+		border: 1px solid #f6b808;
 	}
 
 	.edit-link a:hover {
 		background: none;
-		color: #f8cc0f;
+		color: #f6b808;
 	}
 
 	body.custom-background .site {
@@ -1336,7 +1336,7 @@ OWL CAROUSEL
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-	background: #f8cc0f;
+	background: #f6b808;
 }
 
 /*========================
@@ -1440,7 +1440,7 @@ COMMENTS AREA
 	padding-left: 25px;
 }
 .comment-body .reply .comment-reply-link:hover {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .comment-body .reply .comment-reply-link:before {
 	content: "";
@@ -1482,7 +1482,7 @@ COMMENTS AREA
 	letter-spacing: 1px;
 }
 .comment-respond .comment-reply-title a:hover {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .comment-respond .comment-form p {
 	margin-top: 0;
@@ -1530,8 +1530,8 @@ COMMENTS AREA
 	transition: all ease 0.35s;
 }
 .comment-respond .comment-form p.comment-form-cookies-consent input[type="checkbox"]:checked + label::before {
-	border-color: #f8cc0f;
-	background-color: #f8cc0f;
+	border-color: #f6b808;
+	background-color: #f6b808;
 	background-size: 10px;
 }
 .comment-respond .comment-form p.comment-form-cookies-consent input[type="checkbox"] {
@@ -1567,7 +1567,7 @@ span.separator {
 	color: #707171;
 }
 .breadcrumb .current a {
-	color: #f8cc0f;
+	color: #f6b808;
 	pointer-events: none;
     cursor: default;
 }
@@ -1675,8 +1675,8 @@ PAGINATION
 }
 
 .posts-navigation .nav-links a:hover {
-	border-color: #f8cc0f;
-	background: #f8cc0f;
+	border-color: #f6b808;
+	background: #f6b808;
 	color: #fff;
 }
 
@@ -1835,7 +1835,7 @@ button.toggle-btn {
 .main-navigation ul li:hover > a,
 .main-navigation ul li.current-menu-item > a,
 .main-navigation ul li.current_page_item > a {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .main-navigation ul li ul {
 	position: absolute;
@@ -1888,7 +1888,7 @@ button.toggle-btn {
 }
 .main-navigation ul li ul:before {
 	content: "";
-	border-bottom: 12px solid #f8cc0f;
+	border-bottom: 12px solid #f6b808;
 	border-right: 15px solid transparent;
 	position: absolute;
 	top: -12px;
@@ -1903,7 +1903,7 @@ button.toggle-btn {
 }
 .main-navigation ul li ul li ul:before {
 	border-top: 15px solid transparent;
-	border-right: 12px solid #f8cc0f;
+	border-right: 12px solid #f6b808;
 	top: 20px;
 	left: 3px;
 	border-bottom: none;
@@ -1912,11 +1912,11 @@ button.toggle-btn {
 .main-navigation ul.nav-menu > li:nth-last-of-type(2) ul ul:before {
 	left: auto;
 	right: 3px;
-	border-left: 12px solid #f8cc0f;
+	border-left: 12px solid #f6b808;
 }
 .main-navigation ul li ul li {
 	display: block;
-	background: #f8cc0f;
+	background: #f6b808;
 	font-size: 1em;
 }
 .main-navigation ul li ul li a {
@@ -1935,20 +1935,20 @@ button.toggle-btn {
 }
 
 .nav-wrap .nav-btn a {
-	border: 2px solid #f8cc0f;
+	border: 2px solid #f6b808;
 	border-radius: 5px;
 	padding: 15px 30px;
 	line-height: 1;
 	display: inline-block;
 	color: #fff;
-	background: #f8cc0f;
+	background: #f6b808;
 	font-size: 0.778em;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
 .nav-wrap .nav-btn a:hover {
 	background: transparent;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 /*=======================
@@ -2129,13 +2129,13 @@ a.btn-transparent,
 .btn-readmore {
 	display: inline-block;
 	vertical-align: middle;
-	color: #f8cc0f;
+	color: #f6b808;
 	font-weight: 700;
 	letter-spacing: 1px;
 	text-align: center;
 	font-size: 0.778em;
 	padding: 17px 40px;
-	border: 2px solid #f8cc0f;
+	border: 2px solid #f6b808;
 	border-radius: 5px;
 }
 .site-banner .btn-readmore {
@@ -2147,11 +2147,11 @@ a.btn-transparent,
 }
 a.btn-transparent:hover,
 .btn-readmore:hover {
-	background: #f8cc0f;
+	background: #f6b808;
 	color: #fff;
 }
 .site-banner a.btn-transparent:hover {
-	border-color: #f8cc0f;
+	border-color: #f6b808;
 }
 a.btn-filled {
 	display: inline-block;
@@ -2161,9 +2161,9 @@ a.btn-filled {
 	font-weight: 700;
 	letter-spacing: 1px;
 	padding: 17px 40px;
-	background: #f8cc0f;
+	background: #f6b808;
 	border-radius: 5px;
-	border: 2px solid #f8cc0f;
+	border: 2px solid #f6b808;
 }
 a.btn-filled:hover {
 	background: transparent;
@@ -2353,7 +2353,7 @@ section[class*="-section"] .widget_rrtc_icon_text_widget:nth-child(2n) .text-hol
 
 section[class*="-section"] .widget_rrtc_icon_text_widget .icon-holder {
 	width: 50%;
-	background: #f8cc0f;
+	background: #f6b808;
 	text-align: center;
 	font-size: 5em;
 	color: #fff;
@@ -2570,8 +2570,8 @@ RARATHEME COMPANION DESCRIPTION
 
 .btn-wrap a.btn-filled:hover {
 	background: none;
-	border-color: #f8cc0f;
-	color: #f8cc0f;
+	border-color: #f6b808;
+	color: #f6b808;
 }
 
 /*==============================
@@ -2682,8 +2682,8 @@ section[class*="-section"] .widget_rrtc_testimonial_widget:last-child {
 
 .testimonial-section .btn-wrap a.btn-filled:hover {
 	background: transparent;
-	border-color: #f8cc0f;
-	color: #f8cc0f;
+	border-color: #f6b808;
+	color: #f6b808;
 }
 
 /*============================
@@ -2750,7 +2750,7 @@ CTA TIMER SECTION
 }
 .ctatimer-section a.btn-filled {
 	background: #fff;
-	color: #f8cc0f;
+	color: #f6b808;
 	border-color: #fff;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -2849,7 +2849,7 @@ WIDGET RARATHEME CTA
 .btn-cta {
 	display: inline-block;
 	vertical-align: middle;
-	color: #f8cc0f;
+	color: #f6b808;
 	font-size: 0.778em;
 	font-weight: 700;
 	letter-spacing: 1px;
@@ -2927,7 +2927,7 @@ span.category {
 
 span.category a {
 	display: inline-block;
-	background: #f8cc0f;
+	background: #f6b808;
 	color: #fff;
 	vertical-align: top;
 	padding: 7px 10px;
@@ -2942,7 +2942,7 @@ span.category a:last-child {
 
 span.category a:hover {
 	background: #fff;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 span.category a:focus{
 	outline: thin dotted #fff;
@@ -3044,7 +3044,7 @@ section.contact-form-section .widget_rtc_contact_social_links {
 }
 
 .contact-info ul.contact-list li svg {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .contact-form-section .widget_rtc_contact_social_links .widget-title {
@@ -3075,8 +3075,8 @@ section.contact-form-section .widget_rtc_contact_social_links {
 	display: inline-block;
 	width: 40px;
 	height: 40px;
-	background: #f8cc0f;
-	border: 1px solid #f8cc0f;
+	background: #f6b808;
+	border: 1px solid #f6b808;
 	color: #fff;
 	text-align: center;
 	line-height: 40px;
@@ -3085,7 +3085,7 @@ section.contact-form-section .widget_rtc_contact_social_links {
 
 .social-networks li a:hover {
 	background: none;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .social-networks li a[href*="facebook.com"] {
@@ -3385,7 +3385,7 @@ section.newsletter-section.gradient-enabled .blossomthemes-email-newsletter-wrap
 
 .blossomthemes-email-newsletter-wrapper form label:hover {
 	text-decoration: underline;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .blossomthemes-email-newsletter-wrapper form label input[type="checkbox"] {
@@ -3412,8 +3412,8 @@ section.newsletter-section.gradient-enabled .blossomthemes-email-newsletter-wrap
 }
 
 .blossomthemes-email-newsletter-wrapper form label input[type="checkbox"]:checked + .check-mark {
-	background-color: #f8cc0f;
-	border-color: #f8cc0f;
+	background-color: #f6b808;
+	border-color: #f6b808;
 	background-size: 11px;
 }
 
@@ -3429,12 +3429,12 @@ section.newsletter-section.gradient-enabled .blossomthemes-email-newsletter-wrap
 .blossomthemes-email-newsletter-wrapper form input[type="submit"]:hover {
 	background: #fff;
 	border-color: #fff;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .blossomthemes-email-newsletter-wrapper form #loader-156 {
 	font-size: 30px;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 /*=======================================
@@ -3447,7 +3447,7 @@ WIDGET BLOSSOMTHEME EMAIL NEWSLETTER
 	border-radius: 100%;
 	overflow: hidden;
 	margin: 0 auto 20px auto;
-	border: 3px solid #f8cc0f;
+	border: 3px solid #f6b808;
 	box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 	display: flex;
 	flex: 1;
@@ -3506,7 +3506,7 @@ WIDGET BLOSSOMTHEME EMAIL NEWSLETTER
 #secondary .blossomthemes-email-newsletter-wrapper .text-holder h3:after,
 .site-footer .blossomthemes-email-newsletter-wrapper .text-holder h3:after {
 	content: "";
-	background: #f8cc0f;
+	background: #f6b808;
 	width: 70px;
 	height: 3px;
 	position: absolute;
@@ -3604,7 +3604,7 @@ WIDGET BLOSSOMTHEME EMAIL NEWSLETTER
 
 #secondary .blossomthemes-email-newsletter-wrapper form label input[type="checkbox"]:checked + .check-mark,
 .site-footer .blossomthemes-email-newsletter-wrapper form label input[type="checkbox"]:checked + .check-mark {
-	border-color: #f8cc0f;
+	border-color: #f6b808;
 }
 
 #secondary .blossomthemes-email-newsletter-wrapper form input[type="submit"],
@@ -3615,7 +3615,7 @@ WIDGET BLOSSOMTHEME EMAIL NEWSLETTER
 
 #secondary .blossomthemes-email-newsletter-wrapper form input[type="submit"]:hover,
 .site-footer .blossomthemes-email-newsletter-wrapper form input[type="submit"]:hover {
-	border-color: #f8cc0f;
+	border-color: #f6b808;
 	background: none;
 }
 
@@ -3669,7 +3669,7 @@ FOOTER SECTION
 	display: inline-block;
 }
 .top-footer .widget ul li a:hover {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .site-footer .bottom-footer {
 	font-size: 0.8888em;
@@ -3738,7 +3738,7 @@ LIST VIEW
 
 .blog .site-main article a.btn-transparent:hover {
 	background: none;
-	color: #f8cc0f;
+	color: #f6b808;
 	text-decoration: underline;
 }
 
@@ -3818,8 +3818,8 @@ WIDGET SOCIAL
 }
 
 .widget_social_links ul li a:hover {
-	background: #f8cc0f;
-	border-color: #f8cc0f;
+	background: #f6b808;
+	border-color: #f6b808;
 	color: #fff;
 }
 
@@ -3843,7 +3843,7 @@ WIDGET TWITTER FEEDS
 	margin-bottom: 0;
 }
 .widget_twitter_feeds ul li a {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .widget_twitter_feeds ul li a.twitter_time {
 	color: #4a4a4a;
@@ -3857,7 +3857,7 @@ WIDGET TWITTER FEEDS
 	text-decoration: underline;
 }
 .widget_twitter_feeds ul li a.twitter_time:hover {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .widget_twitter_feeds ul li .fa-twitter {
 	font-size: 1.112em;
@@ -3951,8 +3951,8 @@ SINGLE POST / PAGE
 }
 
 .single:not(.single-product) .article-share .social-icons li a:hover {
-	background: #f8cc0f;
-	border-color: #f8cc0f;
+	background: #f6b808;
+	border-color: #f6b808;
 	color: #fff;
 }
 
@@ -4069,8 +4069,8 @@ ABOUT AUTHOR SECTION
 }
 
 .author-social a:hover .icon {
-	background: #f8cc0f;
-	border-color: #f8cc0f;
+	background: #f6b808;
+	border-color: #f6b808;
 	color: #fff;
 }
 
@@ -4239,7 +4239,7 @@ WIDGET CALENDAR
 	text-align: center;
 }
 .widget_calendar table caption {
-	background: #f8cc0f;
+	background: #f6b808;
 	padding: 10px;
 	color: #fff;
 }
@@ -4256,7 +4256,7 @@ WIDGET CALENDAR
 }
 .widget_calendar table tbody tr td a {
 	font-weight: 700;
-	color: #f8cc0f;
+	color: #f6b808;
 	display: block;
 }
 .widget_calendar table tr th {
@@ -4325,7 +4325,7 @@ form.search-form:after {
 	border-bottom-left-radius: 0;
 	color: #fff;
 	font-size: 16px;
-	background: #f8cc0f url(images/search-icon.svg) no-repeat;
+	background: #f6b808 url(images/search-icon.svg) no-repeat;
 	background-position: center;
 	background-size: 18px;
 	text-indent: 60px;
@@ -4349,8 +4349,8 @@ WIDGET TAG CLOUD
 	color: #fff;
 }
 .widget_tag_cloud a:hover {
-	background: #f8cc0f;
-	border-color: #f8cc0f;
+	background: #f6b808;
+	border-color: #f6b808;
 	color: #fff;
 }
 
@@ -4451,7 +4451,7 @@ RARATHEME COMPANION FAQ
 
 .widget_raratheme_companion_faqs_widget ul.accordion li .toggle:hover,
 .widget_raratheme_companion_faqs_widget ul.accordion li.show .toggle {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .widget_raratheme_companion_faqs_widget ul.accordion li .toggle:hover::after,
@@ -4560,12 +4560,12 @@ section[class*="-section"] .widget_raratheme_featured_page_widget .img-holder {
 .widget_raratheme_featured_page_widget a.btn-readmore {
 	margin-right: 0;
 	margin-top: 35px;
-	background: #f8cc0f;
+	background: #f6b808;
 	color: #fff;
 }
 .widget_raratheme_featured_page_widget a.btn-readmore:hover {
 	background: none;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .widget_raratheme_featured_page_widget a.btn-readmore:focus{
@@ -4604,12 +4604,12 @@ section[class*="-section"] .widget_rrtc_icon_text_widget .content p {
 	font-weight: 700;
 	display: inline-block;
 	padding: 16px 40px;
-	border: 2px solid #f8cc0f;
+	border: 2px solid #f6b808;
 	border-radius: 5px;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	margin-right: 0;
-	background: #f8cc0f;
+	background: #f6b808;
 	color: #fff;
 }
 
@@ -4623,7 +4623,7 @@ section[class*="-section"] .widget_rrtc_icon_text_widget a.btn-readmore {
 }
 .widget_rrtc_icon_text_widget a.btn-readmore:hover {
 	background: transparent;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 .widget_rrtc_icon_text_widget .rtc-itw-inner-holder {
 	display: flex;
@@ -4636,7 +4636,7 @@ section[class*="-section"] .widget_rrtc_icon_text_widget a.btn-readmore {
 }
 .widget_rrtc_icon_text_widget .widget_rrtc_icon_text_widget svg {
 	font-size: 4.5em;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 /*=============================================
@@ -4673,7 +4673,7 @@ RARATHEME COMPANION POPULAR RECENT POST
 }
 
 .widget ul li .entry-meta a:hover {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 /*===========================================
@@ -4762,7 +4762,7 @@ ARCHIVE PAGE
 }
 
 .page-header .author-social a:hover .icon {
-	border-color: #f8cc0f;
+	border-color: #f6b808;
 }
 
 .post-count {
@@ -4781,7 +4781,7 @@ ARCHIVE PAGE
 .archive .site-main article a.btn-transparent:hover,
 .search .site-main article a.btn-transparent:hover {
 	background: none;
-	color: #f8cc0f;
+	color: #f6b808;
 	text-decoration: underline;
 }
 
@@ -4887,7 +4887,7 @@ ERROR 404 PAGE
 .error404 .not-found .error-num {
 	font-size: 22.2222em;
 	font-weight: 700;
-	color: #f8cc0f;
+	color: #f6b808;
 	text-shadow: 0 -10px rgba(0,0,0,0.1);
 	line-height: 1.3;
 }
@@ -4896,8 +4896,8 @@ ERROR 404 PAGE
 	text-transform: uppercase;
 	font-size: 0.7778em;
 	font-weight: 700;
-	background: #f8cc0f;
-	border: 2px solid #f8cc0f;
+	background: #f6b808;
+	border: 2px solid #f6b808;
 	color: #fff;
 	display: inline-block;
 	text-align: center;
@@ -4910,7 +4910,7 @@ ERROR 404 PAGE
 
 .error404 .not-found .bttn:hover {
 	background: none;
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .error404 .not-found .search-form {
@@ -4937,7 +4937,7 @@ PORTFOLIO PAGE
 .portfolio-sorting .button.is-checked,
 .portfolio-sorting .button:hover {
 	color: #fff;
-	background: #f8cc0f;
+	background: #f6b808;
 }
 
 .portfolio-item .portfolio-item-inner {
@@ -5005,7 +5005,7 @@ PORTFOLIO PAGE
 }
 
 .entry-header .portfolio-cat a:hover {
-	color: #f8cc0f;
+	color: #f6b808;
 }
 
 .portfolio-holder .entry-header .entry-title {
@@ -5048,7 +5048,7 @@ PORTFOLIO PAGE
 
 .related-portfolio-title::after {
 	content: "";
-	background: #f8cc0f;
+	background: #f6b808;
 	width: 70px;
 	height: 3px;
 	position: absolute;
@@ -5336,7 +5336,7 @@ RESPONSIVE STYLESHEET
 		bottom: -16px;
 	}
 	.site-header button.toggle-btn:hover .bar {
-		background: #f8cc0f;
+		background: #f6b808;
 	}
 	.main-navigation button.toggle-button {
 		display: block;
@@ -5352,7 +5352,7 @@ RESPONSIVE STYLESHEET
 		right: 0;
 	}
 	.main-navigation button.toggle-button:hover {
-		background: #f8cc0f;
+		background: #f6b808;
 	}
 	.main-navigation button.toggle-button .toggle-bar {
 		display: block;
@@ -5457,7 +5457,7 @@ RESPONSIVE STYLESHEET
 	.main-navigation ul ul.sub-menu li:hover > a,
 	.main-navigation ul ul.sub-menu li.current-menu-item a,
 	.main-navigation ul ul.sub-menu li.current_page_item a {
-		color: #f8cc0f;
+		color: #f6b808;
 		background: rgba(0,0,0,0.01);
 	}
 

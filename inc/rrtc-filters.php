@@ -60,7 +60,7 @@ if( ! function_exists( 'the_conference_cta_bg_color_filter' ) ){
 	 * Filter to add background color of CTA widget.
 	 */
 	function the_conference_cta_bg_color_filter(){
-		return '#f8cc0f';
+		return '#f6b808';
 	}
 }
 add_filter( 'rrtc_cta_bg_color', 'the_conference_cta_bg_color_filter' );
