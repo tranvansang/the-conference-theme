@@ -8,7 +8,7 @@
 if( ! function_exists( 'the_conference_featured_page_widget_image_align_filter' ) ){
 	/**
 	 * Filter to set image postion
-	 */    
+	 */
 	function the_conference_featured_page_widget_image_align_filter(){
 		return 'left';
 	}
@@ -18,7 +18,7 @@ add_filter( 'rrtc_featured_img_alignment', 'the_conference_featured_page_widget_
 if( ! function_exists( 'the_conference_featured_page_widget_image_size_filter' ) ){
 	/**
 	 * Filter to set image size
-	 */    
+	 */
 	function the_conference_featured_page_widget_image_size_filter(){
 		return 'the-conference-featured-page';
 	}
@@ -28,7 +28,7 @@ add_filter( 'rrtc_featured_img_size', 'the_conference_featured_page_widget_image
 if( ! function_exists( 'the_conference_icon_Text_widget_image_size_filter' ) ){
 	/**
 	 * Filter to set image size of icon text widget
-	 */    
+	 */
 	function the_conference_icon_Text_widget_image_size_filter(){
 		return 'the-conference-icon-text-image';
 	}
@@ -48,7 +48,7 @@ add_filter( 'tmw_icon_img_size', 'the_conference_team_member_image_size' );
 if( ! function_exists( 'the_conference_cta_btn_alignment_filter' ) ){
 	/**
 	 * Filter to add btn alignment of cta section widget
-	 */    
+	 */
 	function the_conference_cta_btn_alignment_filter(){
 		return 'centered';
 	}
@@ -58,9 +58,9 @@ add_filter( 'rrtc_cta_btn_alignment', 'the_conference_cta_btn_alignment_filter' 
 if( ! function_exists( 'the_conference_cta_bg_color_filter' ) ){
 	/**
 	 * Filter to add background color of CTA widget.
-	 */    
+	 */
 	function the_conference_cta_bg_color_filter(){
-		return '#57b9a8';
+		return '#f8cc0f';
 	}
 }
 add_filter( 'rrtc_cta_bg_color', 'the_conference_cta_bg_color_filter' );
@@ -68,7 +68,7 @@ add_filter( 'rrtc_cta_bg_color', 'the_conference_cta_bg_color_filter' );
 if( ! function_exists( 'the_conference_testimonial_widget_image_size_filter' ) ){
 	/**
 	 * Filter to add image size of testimonial widget.
-	 */    
+	 */
 	function the_conference_testimonial_widget_image_size_filter(){
 		return 'the-conference-featured-page';
 	}
@@ -82,5 +82,5 @@ if( ! function_exists( 'the_conference_portfolio_single_navigation' ) ) :
     function the_conference_portfolio_single_navigation(){
         the_conference_navigation();
     }
-endif; 
+endif;
 add_filter ( 'rrtc_portfolio_single_nav', 'the_conference_portfolio_single_navigation' );
