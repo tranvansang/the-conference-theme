@@ -555,7 +555,7 @@ textarea {
 ## Links
 --------------------------------------------------------------*/
 a {
-	color: inherit;
+	color: #f6b808;
 	text-decoration: none;
 	transition: all ease 0.35s;
 	-webkit-transition: all ease 0.35s;
@@ -579,6 +579,7 @@ a:hover, a:focus, a:active {
 	}
 	a:hover {
 		color: #f6b808;
+		text-decoration: underline;
 	}
 
 /*--------------------------------------------------------------
@@ -3917,8 +3918,10 @@ SINGLE POST / PAGE
 
 .single #primary .entry-content ul,
 .page #primary .entry-content ul {
-	list-style: inherit;
-	padding: inherit;
+	/*list-style: inherit;
+	padding: inherit;*/
+	list-style: outside;
+	padding: 30px;
 }
 
 .single:not(.single-product) .site-main .article-share {
